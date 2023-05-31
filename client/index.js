@@ -13,7 +13,7 @@ const Index = () => {
   const [guestUserId, setGuestUserId] = useState();
   const [showingSTIFModal, setShowingSTIFModal] = useState(false);
 
-  const hostUserId = 'host_user_1';
+  const hostUserId = 'Fouad B.';
 
   useEffect(() => {
     setCalendarResponse(null);

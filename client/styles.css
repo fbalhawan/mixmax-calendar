@@ -221,6 +221,7 @@ html {
   z-index: 1;
   position: relative;
   z-index: 1;
+  min-width: 65%;
 }
 
 .ksFVnp {
@@ -1079,6 +1080,7 @@ button {
   border-bottom-left-radius: 4px;
   height: 40px;
   line-height: 40px;
+  min-width:120px;
   cursor: pointer;
 }
 

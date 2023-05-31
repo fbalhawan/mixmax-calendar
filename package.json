@@ -37,9 +37,12 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
+    "@types/jest": "^29.5.1",
     "db": "file:./mock/db",
     "express": "^4.17.1",
+    "express-validator": "^7.0.1",
     "moment": "^2.29.1",
+    "node-cron": "^3.0.2",
     "random": "^3.0.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
